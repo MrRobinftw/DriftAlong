@@ -3,17 +3,20 @@
     {
       "company": "Mazda",
       "model": "Rx7",
-      "year": "1998"
+      "year": "1998",
+      "prefab": "VPP Sport Coupe"
     },
     {
       "company": "Nissan",
       "model": "Skyline R34",
-      "year": "1999"
+      "year": "1999",
+      "prefab": "VPP Sport Coupe"
     },
     {
       "company": "Nissan",
       "model": "GTR",
-      "year": "2017"
+      "year": "2017",
+      "prefab": "VPP Sport Coupe"
     }
   ]
 }
