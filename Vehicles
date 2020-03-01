@@ -1,0 +1,19 @@
+{
+  "objects": [
+    {
+      "company": "Mazda",
+      "model": "Rx7",
+      "year": "1998"
+    },
+    {
+      "company": "Nissan",
+      "model": "Skyline R34",
+      "year": "1999"
+    },
+    {
+      "company": "Nissan",
+      "model": "GTR",
+      "year": "2017"
+    }
+  ]
+}
